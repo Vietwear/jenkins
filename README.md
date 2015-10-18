@@ -23,7 +23,7 @@ sudo apt-get install jenkins
 ### Installing Apache
 
 ```bash
-sudo apt-get install apache2
+apt-get install apache2
 sudo a2enmod proxy
 sudo a2enmod proxy_http
 ```
